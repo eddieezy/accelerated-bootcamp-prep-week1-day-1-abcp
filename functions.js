@@ -16,4 +16,4 @@ function addNumbers(num1, num2, num3, num4) {
 
 addNumbers(1, 2, 3, 4)
 
-console.log(addNumbers)
+console.log(addNumbers())
